@@ -19,7 +19,7 @@ keywords = ["mdns", "dns", "multicast", "chromecast", "discovery"]
 
 [dependencies]
 dns-parser = "0.8.0"
-net2 = "0.2"
+socket2 = { version = "0.3.17", features = ["reuseport"] }
 err-derive = "0.2.1"
 futures-core = "0.3.1"
 futures-util = "0.3.1"
