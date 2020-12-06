@@ -1,6 +1,7 @@
 # mdns
 
-[![Build Status](https://travis-ci.org/dylanmckay/mdns.svg?branch=master)](https://travis-ci.org/dylanmckay/mdns)
+[![Build Status (Travis)](https://travis-ci.org/dylanmckay/mdns.svg?branch=master)](https://travis-ci.org/dylanmckay/mdns)
+[![Build Status (Github)](https://github.com/Mephistophiles/gitcheck-rs/workflows/Rust/badge.svg)]()
 [![crates.io](https://img.shields.io/crates/v/mdns.svg)](https://crates.io/crates/mdns)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
